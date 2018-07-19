@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: auto;
+    width: 1200px;
+}
+html,body{
+    height: 100%;
+}
+header {
+    height: 5%;
+    background-color:#003366;
+    padding-bottom: 25px;
+}
+/*navbar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#003366;
+
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color:#092366;
+     list-style-type: none;
+}
+/*akhirnavbar*/
+
+h1{
+	font-family:Lobster;
+	font-size:80px;
+	color:#003366;
+	text-align: center;
+}
+h2{
+	font-family:Lobster;
+	font-size:40px;
+}
+.pfooter{
+	color:#e6d2f7;
+	text-align: center;
+    padding:16px;
+}
+.div{
+	width: 200px;
+	height:200px;
+	background-color:salmon;
+	border-radius:50%;
+	text-align:center;
+	line-height:200px;
+	overflow:hidden;
+
+}
+img{
+	width: 200px;
+}
+footer {
+    height: auto;
+    background-color:#003366;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+/*input*/
+td input[type=text], select textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+/*galery*/
+/*div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}*/

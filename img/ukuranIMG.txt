@@ -1,0 +1,7 @@
+Ukuran dimensi gambar yang sesuai untuk blog
+
+Untuk ukuran gambar posting (dimensi) bisa kita sesuaikan dengan template blog masing masing, adapun ukuran yang paling ideal adalah sebagai berikut.
+
+Template 1 Kolom Bisa menggunakan foto atau gambar dengan ukuran 700 x 360 pixel atau 600 x 400 pixel
+Template 2 kolom Bisa menggunakan foto atau gambar dengan ukuran 600 x 400 pixel atau 600 x 320 pixel
+Template 3 kolom Bisa menggunakan gambar atau foto dengan ukuran 300 x 250
